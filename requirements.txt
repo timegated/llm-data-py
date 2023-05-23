@@ -1,0 +1,2 @@
+scrapeghost
+python-dotenv
